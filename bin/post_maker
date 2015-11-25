@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "post_maker"
+
+cli = PostMaker::CLI.new(ARGV)
+cli.run

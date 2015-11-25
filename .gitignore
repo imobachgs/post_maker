@@ -1,0 +1,18 @@
+### Ruby ###
+*.gem
+*.rbc
+/.config
+/coverage/
+
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Environment normalisation:
+/.bundle/
+/vendor/bundle
+
+## Byebug
+.byebug_history
